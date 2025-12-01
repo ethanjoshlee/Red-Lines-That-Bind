@@ -12,6 +12,9 @@ This repository includes the following items:
 ### `Hypothetical Foreign Policy Scenario_3.4.2023_18.16.csv`
 - A CSV file containing the raw, anonymized data from the vignette survey experiment.
 
+### `EJL_Ph_D__Writing_Sample_Appendix.pdf`
+- An appendix containing the survey questionnaire and a summary of the survey sample's characteristics.
+
 ### `demographic-codebook (1) copy.csv`
 - A codebook provided by Cint Group that lists the demographic and attitudinal variables in the survey dataset and the numeric codes associated with each response category.
 
