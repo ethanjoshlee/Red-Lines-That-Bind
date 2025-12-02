@@ -1,6 +1,6 @@
 # Red-Lines-That-Bind
 
-This repository contains the code and analysis for my writing sample, “Red Lines That Bind: International Law and Domestic Political Audiences in U.S. Counterproliferation Policy.” This paper, an edited version of my 2023 undergraduate thesis, examines when and how unambiguous cues about the international legality of threatened military action realign mechanisms underlying audience costs.
+This repository contains the code and analysis for my Ph.D. writing sample, “Red Lines That Bind: International Law and Domestic Political Audiences in U.S. Counterproliferation Policy.” This paper, an edited version of my 2023 undergraduate thesis, examines when and how unambiguous cues about the international legality of threatened military action can realign audience cost mechanisms.
 
 ## Contents
 
